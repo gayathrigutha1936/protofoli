@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio</title>
+<link rel="stylesheet" href="stylee.css">
+</head>
+<body>
+<nav class="navbar">
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About me</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#education">Education</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+<section id="home">
+<div class="main">
+<h1 class="headings">I AM<br>GAYATHRI</h1>
+<button class="btn">
+Student
+</button>
+</div>
+</section>
+<section id="about">
+<h1 class="headings">About me</h1>
+<div id="pic">
+<img src="https://news.tcc.edu/wp-content/uploads/2019/04/iStock-813019744.jpg" alt="">
+<div id="intro">
+<h2>Gayathri</h2>
+<p>I am from Guntur. I am 20 years old currently studying B-tech. I am a knowledge-oriented student with strong commitment to adaptability leadership and effective communication, resolving complex problems.Iam awarded with PET,BEC,NPTEL certifications.I have been trained with Communication Management Presentation Skills for my job.I am interested in Coding Web development and Ethical hacking technically.</p>
+</section>
+<section id="skills">
+<h1 class="headings":>Skills</h1>
+<div class="gallery">
+<img src="https://1.bp.blogspot.com/-m-cYkRmbWTA/XmaQSA20_wI/AAAAAAAAA_U/IxvuMuRncOAu5QVhzykZz-2Wfzfv9b9ogCNcBGAsYHQ/s1600/c%2Bprogramming%2Blanguage%2Bbasics%2Btutorial%2Bfor%2Bbeginners.jpg" alt="">
+<img src="https://th.bing.com/th/id/OIP.xi_VY54V535hztHz11VTyQHaFL?rs=1&pid=ImgDetMain" alt="">
+<img src="https://cdn.lynda.com/course/718660/718660-636656071008854100-16x9.jpg" alt="">
+</div>
+</section>
+<section id="education">
+<h1 class="headings":>Education</h1>
+<div class="row">
+<div class="box">
+<img src="https://images.vexels.com/media/users/3/215995/isolated/preview/3280d7f11058ed36cb61bb41c5dab3f9-10th-grade-rainbow-label-by-vexels.png" alt="">
+<h1 class="headings">SSC</h1>
+<p>Passed out Secondary School Education with 9.8GPA. I have received prizes for my Essay writing and speech skills.</p>
+</div>
+<div class="box">
+<img src="https://intermediate.pro/wp-content/uploads/2020/06/Intermediate-logo-10.png" alt="">
+<h1 class="headings">INTER</h1>
+<p>Passed out Intermediate with 97% and secured good percentage in Objective examninations.</p>
+</div>
+<div class="box">
+<img src="https://janssenengineeringgroup.com/wp-content/uploads/2017/04/OSI_Text_01_Engineering.png" alt="">
+<h1 class="headings">Engineering</h1>
+<p>Pursuing 3 rd year Engineering in Cyber Security and training my skills to secure a job related to my course.</p>
+</div>
+</div>
+</section>
+<section id="contact"
+<h1 class="headings">Contact</h1>
+<form action"" class="form">
+<input type="text" name="name" class="input" placeholder="Enter your name">
+<input type="email" name="email" class="input" placeholder="Enter your email">
+<Textarea name="msg" id="msg" cols="30" rows="10" placeholder="Enter your message"></textarea>
+<input type="submit" value"SEND" id="send">
+</form>
+</section>
+</body>
+</html>
+
+
